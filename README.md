@@ -11,4 +11,4 @@ for using the script :<br>
  <img src='1.png' /><br>
  <br>
  <b>script without proxy:<br>
-  <img src'2.png' />
+  <img src='2.png' />
